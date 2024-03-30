@@ -1,4 +1,4 @@
-# Automated-Route-Planning-for-Delivery-servicesfor-Delivery-Services
+# Automated-Route-Planning-for-Delivery-services
  This project provides an automated solution for route planning in delivery services. It utilizes graph theory algorithms, specifically Dijkstra's algorithm, to optimize delivery routes for multiple vehicles while considering factors such as distance, vehicle capacity, and delivery location demands.
 
 Key Features:
