@@ -3,7 +3,7 @@
 
 Key Features:
 
-<li>Efficient route optimization using Dijkstra's algorithm.
+<li>Efficient route optimization using Dijkstra's algorithm and backtracking
 <li>Support for multiple vehicles with customizable capacities.
 <li>Handling of delivery locations with varying demands.
 <li>Visualization of optimized routes on an interactive map using Folium.
